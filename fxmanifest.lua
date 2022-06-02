@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game'gta5'
 
-description'Skrypt na automatyczne chodzenie by Kuba200'
+description'Skrypt na automatyczne chodzenie'
 
 version'1.1'
 
